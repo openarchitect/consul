@@ -1,0 +1,21 @@
+de:
+  layouts:
+    footer:
+      accessibility: Barrierefreiheit
+      conditions: Allgemeine Nutzungsbedingungen
+      consul: CONSUL
+      consul_url: https://github.com/consul/consul
+      contact_us: Für technische Unterstützung geben Sie ein
+      copyright: Eine für Alle - Partei, %{year}
+      description: Die Plattform basiert auf %{consul}, einer %{open_source} für Bürgerbeteiligung.
+      open_source: Open-Source Software
+      participation_text: Gestalten Sie das Land mit, in dem Sie leben möchten.
+      participation_title: Bürgerbeteiligung - Eine für Alle - Partei
+      privacy: Datenschutzbestimmungen
+    header:
+      collaborative_legislation: Gesetzgebungsverfahren
+      debates: Diskussionen
+      proposals: Vorschläge
+      poll_questions: Abstimmung
+      budgets: Bürgerhaushalte
+
