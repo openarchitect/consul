@@ -10,7 +10,7 @@ de:
       description: Die Plattform basiert auf %{consul}, einer %{open_source} für Bürgerbeteiligung.
       open_source: Open-Source Software
       participation_text: Gestalten Sie das Land mit, in dem Sie leben möchten.
-      participation_title: Bürgerbeteiligung - Eine für Alle - Partei
+      participation_title: Bürgerbeteiligung als Chance
       privacy: Datenschutzbestimmungen
     header:
       collaborative_legislation: Gesetzgebungsverfahren
