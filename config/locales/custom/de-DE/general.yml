@@ -2,7 +2,7 @@ de:
   layouts:
     footer:
       accessibility: Impressum
-      conditions: Allgemeine Nutzungsbedingungen
+      conditions: Nutzungsbedingungen
       consul: CONSUL
       consul_url: https://github.com/consul/consul
       contact_us:
@@ -11,7 +11,7 @@ de:
       open_source: Open-Source Software
       participation_text: Gestalten Sie das Land mit, in dem Sie leben möchten.
       participation_title: Bürgerbeteiligung als Chance
-      privacy: Datenschutzbestimmungen
+      privacy: Datenschutzerklärung
     header:
       collaborative_legislation: Gesetzgebungsverfahren
       debates: Diskussionen
