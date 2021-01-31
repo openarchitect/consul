@@ -18,4 +18,7 @@ de:
       proposals: Vorschläge
       poll_questions: Abstimmung
       budgets: Bürgerhaushalte
-
+  polls:
+    index:
+      no_geozone_restricted: "Baden-Württemberg"
+      geozone_restricted: "Landkreise"
