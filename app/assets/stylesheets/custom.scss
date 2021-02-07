@@ -6,3 +6,7 @@
 .top-links {
   //background: #00494D;
 }
+.icon-flag::before {
+  content: "\f071";
+  font-weight: normal;
+}
